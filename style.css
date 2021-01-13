@@ -1,0 +1,34 @@
+header {
+	
+
+}
+
+#inpName {
+	width: 95%;
+	margin-bottom: 5px;
+}
+#tabl {
+	margin-top: 20px;
+	width: 80%;
+	/*border: 1px solid black;*/
+	 
+	
+}
+
+table, thead, tbody {
+	border-collapse: collapse;
+
+}
+	
+
+
+
+th, td {
+	border: 1px solid black;
+	text-align: left;
+	padding: 8px;
+
+}
+.remvBtn {
+
+}
